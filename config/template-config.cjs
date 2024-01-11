@@ -29,10 +29,11 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-      
+
+      朋友圈文案：
       {{moment_copyrighting.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{earthyLoveWords_title.DATA}} {{earthyLoveWords_content.DATA}}
     `
   },
   {
