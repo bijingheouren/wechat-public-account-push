@@ -10,10 +10,10 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx9258967dd23a216e',
+  APP_ID: 'wx04dca61512885345',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'dc58c370bedcc40a33e48838d1746630',
+  APP_SECRET: 'aab24e03e7a41c1b8d58383512758f2a',
 
   PROVINCE: '广东',
   CITY: '深圳',
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小何',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o-CgP6w-TzoUqRI1q6CrvcP0J3hI',
+      id: '6eaddfc3c6914f9a8c53750e2a254dea',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -59,7 +59,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o-CgP6w-TzoUqRI1q6CrvcP0J3hI',
+      id: '6eaddfc3c6914f9a8c53750e2a254dea',
     }
   ],
 
