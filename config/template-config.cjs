@@ -38,7 +38,6 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-      预防感冒提醒：{{ganmao.DATA}}
   },
   {
     id: '0002',
