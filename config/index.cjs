@@ -6,9 +6,11 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
+  
+  USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: '6eaddfc3c6914f9a8c53750e2a254dea',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
