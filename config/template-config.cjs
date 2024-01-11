@@ -25,10 +25,13 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       ---
-      💗：{{earthy_love_words.DATA}}
       每日一句😋
+       
+      💗：{{earthy_love_words.DATA}}
+     
 
       中文：{{note_ch.DATA}}
+      
       English：{{note_en.DATA}}
       
       今天是我们相识的第{{love_day.DATA}}天
@@ -36,11 +39,8 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-      
-      {{moment_copyrighting.DATA}}
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
-    `
+
+      预防感冒提醒：{{ganmao.DATA}}
   },
   {
     id: '0002',
