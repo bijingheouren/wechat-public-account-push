@@ -12,9 +12,9 @@ const TEMPLATE_CONFIG = [
       
       城市：{{city.DATA}}
       
-      天气☁️：{{weather.DATA}}
+      天气：{{weather.DATA}}
       
-      温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}
+      温度: {{min_temperature.DATA}}--{{max_temperature.DATA}}
       
       风向: {{wind_direction.DATA}}
       
@@ -25,9 +25,8 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       ---
-      每日一句😋
-       
-      💗：{{earthy_love_words.DATA}}
+      每日一句
+       ：{{earthy_love_words.DATA}}
      
 
       中文：{{note_ch.DATA}}
@@ -39,7 +38,6 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-
       预防感冒提醒：{{ganmao.DATA}}
   },
   {
